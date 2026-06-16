@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'agrinho',
     'Por que o agro é importante?.',
-  Porque ele produz os alimentos que consumimos todos os dias.
+  'Porque ele produz os alimentos que consumimos todos os dias.'
 )
 
 criaCartao(
@@ -61,8 +61,7 @@ criaCartao(
 criaCartao(
     'agrinho',
     'Qual é a relação entre agro e futuro?',
-    ' O agro garante alimentos para as próximas gerações.
-'
+    ' O agro garante alimentos para as próximas gerações.'
 )
 
 criaCartao(
